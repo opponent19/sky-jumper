@@ -1,0 +1,13 @@
+@media only screen and (max-width: 414px) {
+    .page-1-section1 {
+        width: 392px;
+    height: 560px;
+    gap: 0px;
+    opacity: 0px;
+ /* Adjust the height for smaller screens */
+    }
+
+    .data1 {
+        height: 28px; /* Adjust the height for smaller screens */
+    }
+}
